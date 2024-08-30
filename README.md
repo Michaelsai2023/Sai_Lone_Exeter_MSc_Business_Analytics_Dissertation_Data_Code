@@ -1,0 +1,2 @@
+## Project Overview
+- This project investigates the influence of social media sentiment, particularly from Reddit, on the stock performance of NVIDIA, with a focus on discussions related to NVIDIA, OpenAI, and TSMC. By leveraging sentiment analysis and topic modeling techniques, the study aims to provide insights into how online sentiment impacts market behavior, especially within the rapidly evolving technology sector.
